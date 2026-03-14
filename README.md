@@ -16,4 +16,4 @@
 5️⃣ Interactive Filters • Quarter filters (Qtr1, Qtr2, Qtr3, Qtr4) • Category filter dropdown • Dynamic visuals responding to user selections
 6️⃣ Business Objective • Analyze ecommerce sales and profit performance • Identify top-performing states and customers • Understand product demand across categories • Monitor monthly profit trends and customer purchasing behavior
 
-6.Screenshots / Demos: Dashboard Preview
+6.Screenshots / Demos: Dashboard Preview (https://github.com/Manideep-Valusa/PowerBi_Ecommerce_Sales_Dashboard/blob/main/Ecommerce_Dashboard.png)
